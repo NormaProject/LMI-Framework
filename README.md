@@ -69,14 +69,6 @@ Le projet comprend les fichiers suivants :
 - Atteinte à la propriété
 - Atteinte à la fonction de l'information
 
-## Canaux de diffusion identifiés
-
-- Médias traditionnels
-- Canaux numériques & plateformes
-- Canaux interpersonnels
-- Canaux institutionnels et officiels
-- Supports physiques & analogiques
-
 ## Acteurs potentiellement responsables
 
 - Auteur
