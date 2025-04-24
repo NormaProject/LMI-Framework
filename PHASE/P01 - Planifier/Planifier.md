@@ -1,7 +1,7 @@
-# P01 - Planifier les objectifs
+# P01 - Planifier la stratégie
 
 ## Définition
-Déterminer son environnement afin de permettre de s'y préparer au mieux. Envisager le résultat souhaité. Présenter des moyens efficaces pour y parvenir. Communiquer la vision, l'intention et les décisions, en se concentrant sur les résultats attendus.
+Déterminer son environnement afin de permettre de s'y préparer au mieux. Envisager le résultat souhaité.  Communiquer la vision, l'intention et les décisions, en se concentrant sur les résultats attendus.
 
 ## Éléments de la phase P01
 ### P01E01 - Déterminer les objectifs
