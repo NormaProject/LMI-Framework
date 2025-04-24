@@ -1,7 +1,7 @@
 ## Définition
 Cette phase concerne la mise en œuvre concrète des actions planifiées et préparées dans les phases précédentes. C'est le moment où l'on applique la stratégie établie pour atteindre les objectifs fixés.
 
-## Éléments de la phase P03
+## P03 - Exécuter
 ### P03E01 - Engager la procédure appropriée
 - Rédiger et déposer la demande/plainte/requête auprès de l'autorité compétente identifiée
 - Respecter les formalités procédurales (délais, forme, pièces justificatives)
