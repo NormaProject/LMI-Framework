@@ -3,7 +3,7 @@
 ## Définition
 Cette phase consiste à mesurer et analyser les résultats obtenus suite à l'exécution des actions, afin d'ajuster la stratégie si nécessaire et de tirer des enseignements pour les situations futures.
 
-## Éléments potentiels de la phase P04
+## Éléments de la phase P04
 ### P04E01 - Mesurer l'efficacité des actions entreprises
 - Évaluer l'atteinte des objectifs initialement fixés
 - Mesurer les effets directs et indirects des actions menées
