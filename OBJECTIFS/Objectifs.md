@@ -20,5 +20,5 @@
 **OB07 - Sanctionner le comportement**
 - *Résumé* : Appliquer des mesures répressive contre les auteurs ou facilitateurs d’une opération de désinformation. Les sanctions peuvent être juridiques (pénales, administratives), techniques (exclusion de plateforme), ou sociales (réputation, dénonciation publique), dans une optique de responsabilisation et de prévention.
 
-**OB08 -légitimer une action**
--*Résumé* : rendre légitime juridiquement un comportement. 
+**OB08 - Légitimer une action**
+- *Résumé* : Rendre légitime juridiquement un comportement. 
