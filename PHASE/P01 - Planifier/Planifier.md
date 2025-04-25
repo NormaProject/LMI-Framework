@@ -3,7 +3,7 @@
 ## Définition
 Déterminer son environnement afin de permettre de s'y préparer au mieux. Envisager le résultat souhaité.  Communiquer la vision, l'intention et les décisions, en se concentrant sur les résultats attendus.
 
-## Éléments de la phase P01
+## Etapes de la phase P01
 ### P01E01 - Déterminer les objectifs
 - *Résumé* : Fixez les objectifs des opérations
   
@@ -20,3 +20,6 @@ Déterminer son environnement afin de permettre de s'y préparer au mieux. Envis
 
 ### P01E03 - Conception des opérations
 - *Résumé* : concevoir la ou les actions nécessaires pour atteindre les objectifs.
+
+ ### P01E04 -  OPSEC pour P01
+ - *Résumé* : OPSEC 
