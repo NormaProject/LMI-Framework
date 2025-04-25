@@ -15,7 +15,7 @@ Déterminer son environnement afin de permettre de s'y préparer au mieux. Envis
 - Vérifier la cohérence des objectifs poursuivis avec le cadre juridique applicable et les risques contentieux encourus.
 - Anticiper les effets secondaires de l'action envisagée, y compris en termes de réversibilité ou d'image.
 
-### P01E02 - Analyse du théatre et des actants (centre de gravité)
+### P01E02 - Recherche démographique / analyse de l'audience (centre de gravité)
 - *Résumé* : Recherche du public visé. Inclut la segmentation du public, les questions d'actualité, etc.
 
 ### P01E03 - Conception des opérations
