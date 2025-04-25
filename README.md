@@ -1,20 +1,54 @@
-# Framework d'évaluation LMI
+# Framework Juridique de Lutte contre la Manipulation de l'Information (LMI)
 
-## Présentation générale
+![LMI Framework](https://img.shields.io/badge/Framework-LMI-blue)
+![Version](https://img.shields.io/badge/Version-1.0-green)
 
-Ce projet vise à structurer et systématiser l'approche méthodologique pour traiter les cas de désinformation et de manipulation d'information, à travers un cadre juridique et procédural clair. Il propose une méthodologie en quatre phases permettant d'identifier, préparer, exécuter et évaluer des actions juridiques adaptées face à différents types de désinformation.
+## 📋 Présentation générale
 
-## Structure du projet
+Ce framework propose une méthodologie structurée pour traiter les cas de désinformation et de manipulation d'information à travers un cadre juridique et procédural clair. Il s'articule autour de quatre phases permettant d'identifier, préparer, exécuter et évaluer des actions juridiques adaptées face à différents types de manipulation de l'information.
 
-Le projet est organisé autour de 4 phases principales, chacune comportant plusieurs éléments, ainsi qu'une liste d'objectifs potentiels à atteindre :
+## 🔄 Cycle méthodologique
+
+Le framework repose sur un cycle en quatre phases principales :
+
+```
+┌───────────────┐     ┌───────────────┐     ┌───────────────┐     ┌───────────────┐
+│               │     │               │     │               │     │               │
+│  P01          │     │  P02          │     │  P03          │     │  P04          │
+│  PLANIFIER    │────▶│  PRÉPARER     │────▶│  EXÉCUTER     │────▶│  ÉVALUER      │
+│               │     │               │     │               │     │               │
+└───────────────┘     └───────────────┘     └───────────────┘     └───────────────┘
+                                                                         │
+                                                                         │
+                                                                         ▼
+                                                                  Ajustement de la
+                                                                    stratégie
+```
+
+## 🎯 Objectifs du framework
+
+Le framework vise à atteindre un ou plusieurs des objectifs suivants :
+
+| Code | Objectif | Description |
+|------|----------|-------------|
+| **OB01** | [Suspendre la diffusion d'un contenu](./OBJECTIFS/Objectifs.md#ob01) | Limitation du taux de désinformation pour en réduire les effets |
+| **OB02** | [Ralentir la production de contenu](./OBJECTIFS/Objectifs.md#ob02) | Interrompre la circulation d'un contenu malveillant ou trompeur |
+| **OB03** | [Acquérir de l'information](./OBJECTIFS/Objectifs.md#ob03) | Comprendre qui produit la désinformation, comment et pourquoi |
+| **OB04** | [Confisquer le profit réalisé](./OBJECTIFS/Objectifs.md#ob04) | Récupérer la somme gagnée par l'usage du comportement incriminé |
+| **OB05** | [Réparation du préjudice](./OBJECTIFS/Objectifs.md#ob05) | Compenser les victimes d'une manipulation de l'information |
+| **OB06** | [Rétablir les faits](./OBJECTIFS/Objectifs.md#ob06) | Action corrective pour faire émerger la vérité |
+| **OB07** | [Sanctionner le comportement](./OBJECTIFS/Objectifs.md#ob07) | Appliquer des mesures répressives contre les auteurs |
+| **OB08** | [Légitimer une action](./OBJECTIFS/Objectifs.md#ob08) | Rendre légitime juridiquement un comportement |
+
+## 📁 Structure du projet
 
 ### Phases et éléments
 
-**P01 - Planifier les objectifs**
-- P01E1 - Planifier la stratégie
-- P01E2 - Planifier les objectifs
+#### [P01 - Planifier](./PHASE/P01%20-%20Planifier/)
+- [P01E01 - Planifier la stratégie](./PHASE/P01%20-%20Planifier/P01E01%20-%20Planifier%20la%20stratégie.md)
+- [P01E02 - Planifier les objectifs](./PHASE/P01%20-%20Planifier/P01E02%20-%20Planifier%20les%20objectifs.md)
 
-**P02 - Préparer**
+#### [P02 - Préparer](./PHASE/P02%20-%20Préparer/Préparer.md)
 - P02E01 - Identifier la nature de l'information
 - P02E02 - Identifier la nature de la manipulation
 - P02E03 - Identifier la nature de l'intérêt violé
@@ -24,68 +58,64 @@ Le projet est organisé autour de 4 phases principales, chacune comportant plusi
 - P02E07 - Identifier le fondement juridique idoine
 - P02E08 - Chiffrer le préjudice
 
-**P03 - Exécuter**
+#### [P03 - Exécuter](./PHASE/P03%20-%20Exécuter/Exécuter.md)
 - P03E01 - Engager la procédure appropriée
 - P03E02 - Mettre en œuvre les mesures conservatoires
 - P03E03 - Assurer le suivi procédural
 - P03E04 - Communiquer sur l'action en cours
 
-**P04 - Évaluer**
+#### [P04 - Évaluer](./PHASE/P04%20-%20Evaluer/Evaluer.md)
 - P04E01 - Mesurer l'efficacité des actions entreprises
 - P04E02 - Analyser les coûts et bénéfices
 - P04E03 - Capitaliser sur l'expérience
 - P04E04 - Assurer le suivi post-procédural
 
-### Objectifs potentiels
+### Fichiers ressources
 
-- OB01 - Suspendre la diffusion d'un contenu
-- OB02 - Ralentir la production de contenu
-- OB03 - Acquérir de l'information
-- OB04 - Confisquer le profit réalisé
-- OB05 - Réparation du préjudice
-- OB06 - Rétablir les faits
-- OB07 - Sanctionner le comportement
-- OB08 -légitimer une action
+- [`Phases-LMI.csv`](./Phases-LMI.csv) - Listing des phases et de leurs éléments constitutifs
+- [`Objectifs.csv`](./Objectifs.csv) - Listing des objectifs potentiels avec leurs descriptions
 
-## Fichiers du projet
+## 🔍 Types de manipulations identifiés
 
-Le projet comprend les fichiers suivants :
+- **Atteinte à la véracité de l'information** - Fausses informations, décontextualisation, montages trompeurs
+- **Atteinte à la confidentialité** - Divulgation non autorisée d'informations privées
+- **Atteinte à la propriété** - Utilisation non autorisée de contenu protégé
+- **Atteinte à la fonction de l'information** - Détournement de l'usage prévu de l'information
 
-1. `phases.csv` - Listing des phases et de leurs éléments constitutifs
-2. `objectifs.csv` - Listing des objectifs potentiels avec leurs descriptions
-3. `P01 - Planifier.md`
-4. `P02 - Préparer.md`
+## 👥 Acteurs potentiellement responsables
 
-## Comment utiliser ce cadre méthodologique
+| Acteur | Rôle dans la chaîne de diffusion |
+|--------|----------------------------------|
+| Auteur | Créateur du contenu original |
+| Hébergeur | Service technique stockant le contenu |
+| Éditeur du site | Entité responsable de la publication |
+| Fournisseur d'accès à internet | Service permettant l'accès au contenu |
+| Commanditaire | Entité à l'origine de la demande de création |
+| Directeur de la publication | Responsable légal du contenu publié |
+| Imprimeur | Acteur matérialisant le contenu (médias physiques) |
+| Distributeur | Acteur assurant la diffusion du contenu |
+| Concepteur | Créateur des outils ou algorithmes utilisés |
+
+## 📊 Comment utiliser ce framework
 
 1. **Identifier la situation** : Caractériser le cas de désinformation en utilisant les critères définis dans la phase P02E01 à P02E03
-2. **Déterminer l'objectif prioritaire** : Sélectionner parmi les objectifs OB01 à OB07 en fonction de la gravité et des priorités
+2. **Déterminer l'objectif prioritaire** : Sélectionner parmi les objectifs OB01 à OB08 en fonction de la gravité et des priorités
 3. **Suivre la méthodologie** : Appliquer systématiquement les 4 phases en documentant chaque étape
 4. **Analyser les résultats** : Utiliser la phase P04 pour évaluer l'efficacité des actions entreprises
 
+## 🔜 Prochaines étapes
 
-## Types de manipulations identifiés
+- [ ] Développer des cas d'usage spécifiques
+- [ ] Créer des modèles de documents juridiques pour chaque type de procédure
+- [ ] Mettre en place un système de suivi et d'évaluation des actions engagées
+- [ ] Produire des statistiques sur l'efficacité des différentes approches
+- [ ] Élaborer des guides pratiques par type de manipulation
 
-- Atteinte à la véracité de l'information
-- Atteinte à la confidentialité
-- Atteinte à la propriété
-- Atteinte à la fonction de l'information
+## 📚 Références
 
-## Acteurs potentiellement responsables
+- [DISARM Framework](https://github.com/DISARMFoundation/DISARMFramework) - Inspiration pour la structuration des phases
+- [AMITT Framework](https://github.com/cogsec-collaborative/AMITT) - Taxonomie des techniques de manipulation de l'information
 
-- Auteur
-- Hébergeur
-- Éditeur du site
-- Fournisseur d'accès à internet
-- Commanditaire
-- Directeur de la publication
-- Imprimeur
-- Distributeur
-- Concepteur
+## 📄 Licence
 
-## Prochaines étapes
-
-- Développer des cas d'usage spécifiques
-- Créer des modèles de documents juridiques pour chaque type de procédure
-- Mettre en place un système de suivi et d'évaluation des actions engagées
-- Produire des statistiques sur l'efficacité des différentes approches
+Ce framework est distribué sous licence [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
