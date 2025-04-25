@@ -45,6 +45,7 @@ Le projet est organisé autour de 4 phases principales, chacune comportant plusi
 - OB05 - Réparation du préjudice
 - OB06 - Rétablir les faits
 - OB07 - Sanctionner le comportement
+- OB08 -légitimer une action
 
 ## Fichiers du projet
 
