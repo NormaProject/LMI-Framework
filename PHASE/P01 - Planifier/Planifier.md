@@ -5,6 +5,8 @@ Déterminer son environnement afin de permettre de s'y préparer au mieux. Envis
 
 ## Éléments de la phase P01
 ### P01E01 - Déterminer les objectifs
+- *Résumé* : Fixez les objectifs des opérations
+  
 - Recueillir les attentes exprimées par la personne, l'organisation ou l'entité concernée par le litige ou la situation sensible.
 - Clarifier la finalité de la démarche engagée : réparation, cessation, sanction, dissuasion, communication, ou sécurisation préventive.
 - Identifier les enjeux stratégiques, réputationnels, financiers ou politiques sous-jacents à la situation.
@@ -17,4 +19,4 @@ Déterminer son environnement afin de permettre de s'y préparer au mieux. Envis
 - *Résumé* : Recherche du public visé. Inclut la segmentation du public, les questions d'actualité, etc.
 
 ### P01E03 - Conception des opérations
-- *Résumé* : concevoir la ou les opérations nécessaires pour atteindre les objectifs.
+- *Résumé* : concevoir la ou les actions nécessaires pour atteindre les objectifs.
