@@ -1,5 +1,6 @@
 Phase_ID,Phase_Name,Element_ID,Element_Name
-P01,Planifier les objectifs,P01E01,Déterminer les objectifs
+P01,Planifier,P01E01,Planifier la stratégie
+P01,Planifier,P01E02,Déterminer les objectifs
 P02,Préparer,P02E01,Identifier la nature de l'information
 P02,Préparer,P02E02,Identifier la nature de la manipulation
 P02,Préparer,P02E03,Identifier la nature de l'intérêt violé
