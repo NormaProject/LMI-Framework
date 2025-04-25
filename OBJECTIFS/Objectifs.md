@@ -3,7 +3,7 @@
    - *Résumé* : Limitation du taux de désinformation. Cela permet d'en réduire les effets, tout en évitant les problèmes de censure. Les archives de contenu en ligne sont utiles pour l'analyse du renseignement et la transparence publique, mais nécessiteront une mise en sourdine ou un étiquetage/un blâme similaires à ceux associés à de mauvais acteurs.
 
 **OB02 - Ralentir la production de contenu**
-   - *Résumé* : Cet objectif vise à interrompre la circulation d’un contenu malveillant ou trompeur en le rendant inaccessible ou moins visible sur les canaux de diffusion (plateformes sociales, sites web, moteurs de recherche). Il peut inclure des actions de déréférencement ou de retrait de contenu.
+   - *Résumé* : Cet objectif vise à interrompre la circulation d’un contenu malveillant ou trompeur en le rendant inaccessible ou moins visible sur les canaux de diffusion (plateformes sociales, sites web, moteurs de recherche). Il peut inclure des actions de déréférencement ou des actions judiciaires.
    
 **OB03 - Acquérir de l'information**
   - *Résumé* : Comprendre qui produit la désinformation, comment, et dans quel but. Cela comprend la collecte de métadonnées, l’analyse comportementale, le traçage des chaînes de diffusion ou encore la coopération judiciaire ou technique pour identifier les auteurs.
