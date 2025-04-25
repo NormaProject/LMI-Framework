@@ -11,7 +11,8 @@ Le projet est organisé autour de 4 phases principales, chacune comportant plusi
 ### Phases et éléments
 
 **P01 - Planifier les objectifs**
-- P01E01 - Déterminer les objectifs
+- P01E1 - Planifier la stratégie
+- P01E2 - Planifier les objectifs
 
 **P02 - Préparer**
 - P02E01 - Identifier la nature de l'information
