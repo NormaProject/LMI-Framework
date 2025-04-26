@@ -93,6 +93,21 @@ Le framework vise à atteindre un ou plusieurs des objectifs suivants :
 | Distributeur | Acteur assurant la diffusion du contenu |
 | Concepteur | Créateur des outils ou algorithmes utilisés |
 
+## :cop: Acteurs juridiques
+
+| Acteurs juridiques  | Rôle dans la chaîne de valeur |
+|--------|----------------------------------|
+| Magistrat du parquet | Veille à l'application de la loi et de défend l'ordre public |
+| Magistrat du siège |  Prononce des décisions de justice pour régler des conflits ou juger les auteurs des infractions |
+| Juge des référés | Se prononce en urgence sur des demandes qui nécessitent une décision rapide |
+| Autorité administrative (ou publique) indépendante | Institution en charge de la régulation d'un secteur d'activité |
+| Commissaire de justice | Établit les constats d'état des lieux, fait exécuter les décisions de justice et les actes |
+| Avocat | Conseille et représente en justice |
+| Expert judiciaire | Sollicité pour donner au juge un avis sur des points techniques précis |
+| Enquêteur de droit privé | Procède à des investigations |
+
+
+
 ## 📊 Comment utiliser ce framework
 
 1. **Identifier la situation** : Caractériser le cas de désinformation en utilisant les critères définis dans la phase P02E01 à P02E03
