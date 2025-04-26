@@ -1,25 +1,25 @@
 Code,Titre,Source juridique,Catégorie parente
-J0101,Droit pénal de la presse (délit de fausse nouvelle et diffamation),Article 27 et 29 de la loi du 29 juillet 1881 sur la liberté de la presse; Article 93-3 de la loi n°82-652 du 29 juillet 1983 modifiée par la loi LCEN n°2004-575 du 21 juin 2004,J01
-J0102,Infractions pénales contre les publications fausses ou haineuses,Articles 421-2-5 (apologie terrorisme), 222-33-2-2 (cyberharcèlement), 226-8 et 226-8-1 (montage illicite), 226-4-1 (usurpation d'identité) du Code pénal,J01
-J0103,Lutte contre la manipulation de l'information en période électorale,Loi n°2018-1202 du 22 décembre 2018; Articles L.163-1 et L.163-2 du Code électoral; Article L.97 du Code électoral,J01
-J0104,Délit de fourniture de fausses informations aux autorités,Article 411-10 du Code pénal,J01
-J0105,Délit de transmission d'informations fausses en droit financier,Articles L.465-3-1, L.465-3-2, L.465-3-3 du Code monétaire et financier; Article 12 du Règlement (UE) n°596/2014 (MAR),J01
-J0106,Prohibition des informations mensongères en droit commercial,Article L.442-9 du Code de commerce,J01
-J0107,Pratiques commerciales trompeuses en droit de la consommation,Articles L.121-2, L.121-4, L.121-5, L.132-1 du Code de la consommation,J01
-J0108,Prohibition du dol (tromperie du consentement) en droit des contrats,Articles 1137 à 1139 du Code civil,J01
-J0201,Délit de livraison d'informations à une puissance étrangère,Articles 411-6, 411-7, 411-8 du Code pénal,J02
-J0202,Protection du secret de la défense nationale,Articles 413-9, 413-10, 413-11 du Code pénal,J02
-J0203,Protection de l'identité des agents de services spéciaux,Articles 413-13, 413-14 du Code pénal,J02
-J0204,Protection du secret des correspondances,Article 226-15 du Code pénal,J02
-J0205,Protection des secrets de fabrication,Article L.1227-1 du Code du travail,J02
-J0206,Répression du délit d'initié,Article L.465-1 du Code monétaire et financier,J02
-J0207,Protection du secret des affaires,Articles L.151-1 et suivants du Code de commerce; Directive 2016/943 du 8 juin 2016 transposée par la loi n°2018-670 du 30 juillet 2018,J02
-J0208,Obligations de confidentialité en droit des contrats,Article 1112-2 du Code civil,J02
-J0301,Lutte contre les cyberattaques et le vol de données,Articles 323-1 à 323-8 du Code pénal; Loi LCEN du 21 juin 2004,J03
-J0302,Protection de la vie privée,Articles 9 du Code civil; Articles 226-1 et suivants du Code pénal; RGPD (Règlement UE 2016/679),J03
-J0303,Lutte contre la contrefaçon,Articles L.335-2 et suivants du Code de propriété intellectuelle,J03
-J0401,Obligations systémiques via le Digital Services Act (DSA),Règlement (UE) 2022/2065 du 19 octobre 2022 (Digital Services Act); Articles 16, 22, 33, 34, 35,J04
-J0402,Encadrement des systèmes d'IA (IA Act),Règlement (UE) 2024/1689 du 13 juin 2024 (Artificial Intelligence Act); Article 5, 6, 15, 50,J04
-J0403,Régulation des plateformes (Digital Markets Act),Règlement (UE) 2022/1925 du 14 septembre 2022 (Digital Markets Act); Articles 5, 7, 14, 29-31,J04
-J0404,Principes de neutralité du Net,Règlement (UE) 2015/2120 du 25 novembre 2015; Articles 3 et 4,J04
-J0405,Régulation des opérateurs de diffusion audiovisuelle,Directive 2010/13/UE (SMA) du 10 mars 2010; Articles 2 (§4-§6), 17-2 et 58 de la loi Léotard n°86-1067 du 30 septembre 1986,J04
+J0101,"Droit pénal de la presse (délit de fausse nouvelle et diffamation)","Article 27 et 29 de la loi du 29 juillet 1881 sur la liberté de la presse; Article 93-3 de la loi n°82-652 du 29 juillet 1983 modifiée par la loi LCEN n°2004-575 du 21 juin 2004",J01
+J0102,"Infractions pénales contre les publications fausses ou haineuses","Articles 421-2-5 (apologie terrorisme), 222-33-2-2 (cyberharcèlement), 226-8 et 226-8-1 (montage illicite), 226-4-1 (usurpation d'identité) du Code pénal",J01
+J0103,"Lutte contre la manipulation de l'information en période électorale","Loi n°2018-1202 du 22 décembre 2018; Articles L.163-1 et L.163-2 du Code électoral; Article L.97 du Code électoral",J01
+J0104,"Délit de fourniture de fausses informations aux autorités","Article 411-10 du Code pénal",J01
+J0105,"Délit de transmission d'informations fausses en droit financier","Articles L.465-3-1, L.465-3-2, L.465-3-3 du Code monétaire et financier; Article 12 du Règlement (UE) n°596/2014 (MAR)",J01
+J0106,"Prohibition des informations mensongères en droit commercial","Article L.442-9 du Code de commerce",J01
+J0107,"Pratiques commerciales trompeuses en droit de la consommation","Articles L.121-2, L.121-4, L.121-5, L.132-1 du Code de la consommation",J01
+J0108,"Prohibition du dol (tromperie du consentement) en droit des contrats","Articles 1137 à 1139 du Code civil",J01
+J0201,"Délit de livraison d'informations à une puissance étrangère","Articles 411-6, 411-7, 411-8 du Code pénal",J02
+J0202,"Protection du secret de la défense nationale","Articles 413-9, 413-10, 413-11 du Code pénal",J02
+J0203,"Protection de l'identité des agents de services spéciaux","Articles 413-13, 413-14 du Code pénal",J02
+J0204,"Protection du secret des correspondances","Article 226-15 du Code pénal",J02
+J0205,"Protection des secrets de fabrication","Article L.1227-1 du Code du travail",J02
+J0206,"Répression du délit d'initié","Article L.465-1 du Code monétaire et financier",J02
+J0207,"Protection du secret des affaires","Articles L.151-1 et suivants du Code de commerce; Directive 2016/943 du 8 juin 2016 transposée par la loi n°2018-670 du 30 juillet 2018",J02
+J0208,"Obligations de confidentialité en droit des contrats","Article 1112-2 du Code civil",J02
+J0301,"Lutte contre les cyberattaques et le vol de données","Articles 323-1 à 323-8 du Code pénal; Loi LCEN du 21 juin 2004",J03
+J0302,"Protection de la vie privée","Articles 9 du Code civil; Articles 226-1 et suivants du Code pénal; RGPD (Règlement UE 2016/679)",J03
+J0303,"Lutte contre la contrefaçon","Articles L.335-2 et suivants du Code de propriété intellectuelle",J03
+J0401,"Obligations systémiques via le Digital Services Act (DSA)","Règlement (UE) 2022/2065 du 19 octobre 2022 (Digital Services Act); Articles 16, 22, 33, 34, 35",J04
+J0402,"Encadrement des systèmes d'IA (IA Act)","Règlement (UE) 2024/1689 du 13 juin 2024 (Artificial Intelligence Act); Article 5, 6, 15, 50",J04
+J0403,"Régulation des plateformes (Digital Markets Act)","Règlement (UE) 2022/1925 du 14 septembre 2022 (Digital Markets Act); Articles 5, 7, 14, 29-31",J04
+J0404,"Principes de neutralité du Net","Règlement (UE) 2015/2120 du 25 novembre 2015; Articles 3 et 4",J04
+J0405,"Régulation des opérateurs de diffusion audiovisuelle","Directive 2010/13/UE (SMA) du 10 mars 2010; Articles 2 (§4-§6), 17-2 et 58 de la loi Léotard n°86-1067 du 30 septembre 1986",J04
