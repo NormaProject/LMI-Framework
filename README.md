@@ -7,6 +7,8 @@
 
 Ce framework propose une méthodologie structurée pour traiter les cas de désinformation et de manipulation d'information à travers un cadre juridique et procédural clair. Il s'articule autour de quatre phases permettant d'identifier, préparer, exécuter et évaluer des actions juridiques adaptées face à différents types de manipulation de l'information.
 
+Ce modèle est basé sur le framework DISARM Blue reconnu pour sa classification structurée des tactiques, techniques et procédures (TTP) répondant aux menaces informationnelles. 
+
 ## 🔄 Cycle méthodologique
 
 Le framework repose sur un cycle en quatre phases principales :
