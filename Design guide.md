@@ -106,4 +106,4 @@ La plupart des efforts de NORMA ont porté sur la manière d'adapter ces modèle
 
 En 2021, NORMA a étudié des opérations juridiques connus pour y trouver des comportements de créateurs d'incidents, et a cherché à s'inspirer et à définir des cadres pour les modèles de comportement lawfare. 
 
-Le groupe a examiné des modèles basés sur le comportement dans les domaines de la sécurité de l'information, de l'analyse des réseaux sociaux, du marketing et de la technologie publicitaire avant d'opter pour la Cyber Killchain et le modèle ATT&CK qui en découle, comme représentation de base pour les comportements lawfare.
+Le groupe a examiné des modèles basés sur le comportement dans les domaines de la sécurité de l'information, de l'analyse des réseaux sociaux, du marketing et de la technologie publicitaire avant d'opter pour la Cyber Killchain, le modèle ATT&CK et le modèle DISARM qui en découle, comme représentation de base pour les comportements lawfare.
