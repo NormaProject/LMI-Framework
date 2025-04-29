@@ -138,19 +138,6 @@ Le framework comprend une base documentée de cas de manipulation de l'informati
 4. **Analyser les résultats** : Utiliser la phase P04 pour évaluer l'efficacité des actions entreprises
 5. **Comparer avec les cas documentés** : S'appuyer sur l'analyse des cas similaires pour anticiper les défis juridiques
 
-## 📊 Analyse contextuelle
-
-### Périodes électorales
-Le framework LMI permet d'analyser spécifiquement les manipulations d'information en période électorale, qui constituent un risque particulier pour les processus démocratiques:
-
-| Élection | Pays | Date | Cas associés |
-|----------|------|------|--------------|
-| Présidentielle 2018 | Brésil | 07/10/2018 - 28/10/2018 | UID008, UID009 |
-| Législatives 2019 | Royaume-Uni | 12/12/2019 | UID011, UID012 |
-| Présidentielle 2020 | États-Unis | 03/11/2020 | UID007 |
-| Législatives 2020 | Myanmar | 08/11/2020 | UID010 |
-| Présidentielle 2024 | États-Unis | 05/11/2024 | Cas Storm-1516 |
-
 ## 🔜 Prochaines étapes
 
 - [ ] Développer des modèles de documents juridiques pour chaque type de procédure
