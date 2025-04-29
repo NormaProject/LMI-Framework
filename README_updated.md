@@ -42,25 +42,23 @@ Le framework vise à atteindre un ou plusieurs des objectifs suivants :
 ## 📁 Structure du projet
 
 ### Base de données de cas d'usage
+
 Le framework comprend une base documentée de cas de manipulation de l'information, chacun analysé selon notre méthodologie:
 
-#### Cas documentés récents (2018-2022)
+#### Cas documentés (2018-2025)
+- [UID000 - 2025 - Opération Storm-1516 contre la France (vue d'ensemble)](./CAS/UID000-2025-Operation_Storm-1516_France.md)
+- [UID001 - 2025 - Fausse vidéo d'un migrant tchadien (Storm-1516)](./CAS/UID001-2025-Fausse_video_migrant_tchadien.md)
+- [UID002 - 2025 - Fausse acquisition bancaire par Zelensky (Storm-1516)](./CAS/UID002-2025-Fausse_acquisition_bancaire_Zelensky.md)
+- [UID003 - 2025 - Fausse menace terroriste contre Notre-Dame (Storm-1516)](./CAS/UID003-2025-Fausse_menace_terroriste_NotreDame.md)
+- [UID004 - 2025 - Fausse allégation de liaison de Macron (Storm-1516)](./CAS/UID004-2025-Fausse_allegation_liaison_Macron.md)
+- [UID005 - 2025 - Fausse accusation contre Brigitte Macron (Storm-1516)](./CAS/UID005-2025-Fausse_accusation_BrigitteMacron.md)
 - [UID006 - 2019 - Sanction de Bloomberg LP pour diffusion de fausses informations](./CAS/UID006-2019-Fausses%20informations%20financières%20sur%20Vinci%20diffusées%20par%20Bloomberg.md)
 - [UID007 - 2020 - Fausse campagne #GoBaldForBLM visant à discréditer le mouvement BLM](./CAS/UID007-2020-Campagne-GoBaldForBLM.md)
 - [UID008 - 2019 - Campagne de désinformation WhatsApp durant l'élection brésilienne](./CAS/UID008-2019-WhatsApp-Bresil-Election.md)
 - [UID009 - 2018 - Financement illégal de campagne WhatsApp contre le PT au Brésil](./CAS/UID009-2018-Financement-Illegal-WhatsApp-Bresil.md)
-- [UID010 - 2022 - Algorithmes de Facebook et violence contre les Rohingyas](./CAS/UID010-2022-Facebook-Rohingyas-Myanmar.md)
-- [UID011 - 2019 - Fuite de documents UK-US sur Reddit (ingérence russe)](./CAS/UID011-2019-Documents-Fuites-NHS-Reddit.md)
-- [UID012 - 2019 - Opération "Secondary Infektion" (campagne d'influence russe)](./CAS/UID012-2019-Operation-Secondary-Infektion.md)
-
-#### Étude de cas prospective: Storm-1516 (2025)
-- [UID000 - 2025 - Opération Storm-1516 contre la France (vue d'ensemble)](./CAS/UID000-2025-Operation_Storm-1516_France.md)
-- [UID001 - 2025 - Fausse vidéo d'un migrant tchadien](./CAS/UID001-2025-Fausse_video_migrant_tchadien.md)
-- [UID002 - 2025 - Fausse acquisition bancaire par Zelensky](./CAS/UID002-2025-Fausse_acquisition_bancaire_Zelensky.md)
-- [UID003 - 2025 - Fausse menace terroriste contre Notre-Dame](./CAS/UID003-2025-Fausse_menace_terroriste_NotreDame.md)
-- [UID004 - 2025 - Fausse allégation de liaison de Macron](./CAS/UID004-2025-Fausse_allegation_liaison_Macron.md)
-- [UID005 - 2025 - Fausse accusation contre Brigitte Macron](./CAS/UID005-2025-Fausse_accusation_BrigitteMacron.md)
-
+- [UID010 - 2022 - Algorithmes de Facebook et violence contre les Rohingyas au Myanmar](./CAS/UID010-2022-Facebook-Rohingyas-Myanmar.md)
+- [UID011 - 2019 - Fuite de documents UK-US sur Reddit liée à une opération d'influence russe](./CAS/UID011-2019-Documents-Fuites-NHS-Reddit.md)
+- [UID012 - 2019 - Opération "Secondary Infektion" : campagne d'influence russe à faible impact](./CAS/UID012-2019-Operation-Secondary-Infektion.md)RéessayerClaude peut faire des erreurs. Assurez-vous de vérifier ses réponses.
 ### Phases et éléments
 
 #### [P01 - Planifier](./PHASES/P01-Planifier/README.md)
@@ -96,7 +94,7 @@ Le framework comprend une base documentée de cas de manipulation de l'informati
 - [`Objectifs.csv`](./Objectifs.csv) - Listing des objectifs potentiels avec leurs descriptions
 - [`Phases-LMI.csv`](./Phases-LMI.csv) - Listing des phases et de leurs éléments constitutifs
 - [`Usecases.csv`](./Usecases.csv) - Synthèse des cas d'usage documentés
-- [`Elections.csv`](./Elections.csv) - Répertoire des contextes électoraux pour analyse croisée
+- [`Elections.csv`](./Elections.csv) - Fichier des périodes électorale pour analyse croisée ultérieure
 
 ## 🔍 Types de manipulations identifiés
 
