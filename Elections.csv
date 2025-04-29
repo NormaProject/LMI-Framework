@@ -1,0 +1,8 @@
+Election_ID,Pays,Type_Election,Date_Debut,Date_Fin,Vainqueur,Cas_LMI_Associes
+EL001,Brésil,Présidentielle,07/10/2018,28/10/2018,Jair Bolsonaro,"[""UID008"",""UID009""]"
+EL002,Royaume-Uni,Législatives,12/12/2019,12/12/2019,Boris Johnson,"[""UID011"",""UID012""]"
+EL003,États-Unis,Présidentielle,03/11/2020,03/11/2020,Joe Biden,"[""UID007""]"
+EL004,Myanmar,Législatives,08/11/2020,08/11/2020,Ligue nationale pour la démocratie,"[""UID010""]"
+EL005,France,Présidentielle,10/04/2022,24/04/2022,Emmanuel Macron,[]
+EL006,France,Législatives,12/06/2022,19/06/2022,Ensemble (coalition),[]
+EL007,États-Unis,Présidentielle,05/11/2024,05/11/2024,Donald Trump,[]
