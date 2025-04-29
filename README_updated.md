@@ -58,7 +58,8 @@ Le framework comprend une base documentée de cas de manipulation de l'informati
 - [UID009 - 2018 - Financement illégal de campagne WhatsApp contre le PT au Brésil](./CAS/UID009-2018-Financement-Illegal-WhatsApp-Bresil.md)
 - [UID010 - 2022 - Algorithmes de Facebook et violence contre les Rohingyas au Myanmar](./CAS/UID010-2022-Facebook-Rohingyas-Myanmar.md)
 - [UID011 - 2019 - Fuite de documents UK-US sur Reddit liée à une opération d'influence russe](./CAS/UID011-2019-Documents-Fuites-NHS-Reddit.md)
-- [UID012 - 2019 - Opération "Secondary Infektion" : campagne d'influence russe à faible impact](./CAS/UID012-2019-Operation-Secondary-Infektion.md)RéessayerClaude peut faire des erreurs. Assurez-vous de vérifier ses réponses.
+- [UID012 - 2019 - Opération "Secondary Infektion" : campagne d'influence russe à faible impact](./CAS/UID012-2019-Operation-Secondary-Infektion.md)
+- 
 ### Phases et éléments
 
 #### [P01 - Planifier](./PHASES/P01-Planifier/README.md)
