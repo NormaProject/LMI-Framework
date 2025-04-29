@@ -102,8 +102,8 @@ Les communauté de l'infosec et de lutte contre les manipulations de l'informati
 
 La plupart des efforts de NORMA ont porté sur la manière d'adapter ces modèles, et les outils qui les utilisent, aux opérations juridiques.
 
-### 2.4.1 Modèles de menace de désinformation
+### 2.4.1 Modèles de réponse juridique aux manipulations de l'information
 
-En 2021, NORMA a étudié des opérations juridiques connus pour y trouver des comportements de créateurs d'incidents, et a cherché à s'inspirer et à définir des cadres pour les modèles de comportement lawfare. 
+En 2021, NORMA a étudié des opérations juridiques connus pour y trouver des comportements de créateurs d'incidents, et a cherché à s'inspirer et à définir des cadres pour les modèles d'opérations juridiques en réponse à une manipulation de l'information. 
 
-Le groupe a examiné des modèles basés sur le comportement dans les domaines de la sécurité de l'information, de l'analyse des réseaux sociaux, du marketing et de la technologie publicitaire avant d'opter pour la Cyber Killchain, le modèle ATT&CK et le modèle DISARM qui en découle, comme représentation de base pour les comportements lawfare.
+Dans le cadre de ces travaux s'attardant plus spécifiquement aux manipulations de l'information, le groupe a examiné des modèles basés sur le comportement dans les domaines de la sécurité de l'information, de l'analyse des réseaux sociaux, du marketing et de la technologie publicitaire avant d'opter pour la Cyber Killchain, le modèle ATT&CK et le modèle DISARM qui en découle, comme représentation de base pour les réponses juridiques aux manipulations de l'informations.
