@@ -37,4 +37,3 @@ Ce cas démontre l'importance de l'article 50 de l'IA Act qui imposera aux fourn
 
 ## Sources
 - Rapport de NewsGuard, avril 2025
-- Déclarations de l'agence gouvernementale Viginum
